@@ -15,4 +15,5 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
 
  
-<img src="https://github-readme-stats.vercel.app/api?username=firdaussaad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=firdaussaad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdaussaad&layout=compact)](https://github.com/firdaussaad/github-readme-stats)
+
