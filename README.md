@@ -8,5 +8,14 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Firdaussaad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaussaad) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am sea sick prone. 
+
+### Operating system
+
+### Language
+
+### Tools
+
+
+
  
 <img src="https://github-readme-stats.vercel.app/api?username=firdaussaad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
