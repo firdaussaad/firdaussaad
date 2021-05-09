@@ -1,4 +1,4 @@
-### Hello! I'm Firdaus Saad! 👋
+### Hello! I'm Firdaus Saad! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 🔭 I’m was once feeding sharks for a living.
 - 🌱 I’m currently a student. Learning new skills to enter the tech industry. 
