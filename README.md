@@ -9,11 +9,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am sea sick prone. 
 
-### Operating system
 
-### Language
-
-### Tools
 
 
 
