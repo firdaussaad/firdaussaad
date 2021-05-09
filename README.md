@@ -5,7 +5,7 @@
 - 👯 I’m looking to work on github projects to improve my technical knowledge.
 - 🤔 I’m still a Work In Progress. Any help or feedback is greatly appreciated!
 - 💬 Ask me about anything fintech or disruptive technology stuff. 
-- 📫 How to reach me: www.linkedin.com/in/firdaussaad
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Firdaussaad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaussaad) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am sea sick prone. 
  
